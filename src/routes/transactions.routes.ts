@@ -30,8 +30,8 @@ transactionsRouter.post('/', async (request, response) => {
 
   const transaction = await createTransaction.execute({
     title,
-    value,
     type,
+    value,
     category,
   });
 
