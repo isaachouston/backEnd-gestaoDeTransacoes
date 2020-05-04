@@ -94,7 +94,7 @@ POST / transaction / import: a rota deve permitir a importação de um arquivo n
 Primeiro clone o arquivo do git:
 
 ```
-$ git clone https://github.com/Fred-Reis/challenge_backEnd-05_GoStack-v2
+$ git clone https://github.com/isaachouston/backEnd-gestaoDeTransacoes
 ```
 
 Instale os módulos, executando:
